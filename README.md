@@ -23,7 +23,7 @@ https://github.com/Danielvillarreal1/analisis-mercado.git
 
 ## Graficos
 --------------------------------
-![Ventas Totales por Año](img/ventas-totales-año.png)
+![Ventas Totales por Año](img/ventas-totales-anio.png)
 
 --------------------------------
 ![Top 7 Productos con Mayor Ganancias](img/top7-productos.png)
