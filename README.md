@@ -29,13 +29,13 @@ https://github.com/Danielvillarreal1/analisis-mercado.git
 ![Top 7 Productos con Mayor Ganancias](img/top7-productos.png)
 
 --------------------------------
-![Ventas Totales por Año y Región](img/ventas-año-region.png)
+![Ventas Totales por Año y Región](img/ventas-anio-region.png)
 
 --------------------------------
 ![Metodo de envío mas utilizado](img/envio-mas-utilizado.png)
 
 --------------------------------
-![Ventas Trimestrales en trimestre São Paulo ](img/ventas-trimestre-SãoPaulo.png)
+![Ventas Trimestrales en trimestre São Paulo ](img/ventas-trimestre-SaoPaulo.png)
 
 --------------------------------
 ![Top 10 Clientes que Más Han Gastado](img/top10-clientes.png)
